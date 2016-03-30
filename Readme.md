@@ -24,6 +24,9 @@
 #### Sqlite
 - [greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. ](https://github.com/greenrobot/greenDAO)
 
+#### Json
+- [A Java serialization/deserialization library that can convert Java Objects into JSON and back.](https://github.com/google/gson)
+
 #### Dev Tools
 - [Stream iOS & Android Native Apps in the Browser](https://appetize.io)
 - [Make the right product decision every time.](https://repro.io)
