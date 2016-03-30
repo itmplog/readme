@@ -7,7 +7,7 @@
 #### Image
 - [An Android library for managing images and the memory they use. ](https://github.com/facebook/fresco)
 - [An image loading and caching library for Android focused on smooth scrolling](https://github.com/bumptech/glide)
--[A powerful image downloading and caching library for Android ](https://github.com/square/picasso)
+- [A powerful image downloading and caching library for Android ](https://github.com/square/picasso)
 
 #### Audio & Videos
 - [Maybe the most robust Android Audio encapsulation library, with part Rx support.](https://github.com/Piasy/RxAndroidAudio)
@@ -35,3 +35,6 @@
 #### Event Bus
 - [Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.](https://github.com/greenrobot/EventBus)
 - [An enhanced Guava-based event bus with emphasis on Android support. ](https://github.com/square/otto)
+
+#### Other
+- [General purpose utilities and hash functions for Android and Java (aka java-common)](https://github.com/greenrobot/essentials)
