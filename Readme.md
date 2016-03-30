@@ -4,6 +4,8 @@
 - [JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)
 - [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton)
 
+#### Image
+- [An Android library for managing images and the memory they use. ](https://github.com/facebook/fresco)
 
 #### Audio & Videos
 - [Maybe the most robust Android Audio encapsulation library, with part Rx support.](https://github.com/Piasy/RxAndroidAudio)
