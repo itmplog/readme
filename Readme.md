@@ -32,4 +32,6 @@
 - [Make the right product decision every time.](https://repro.io)
 - [View "injection" library for Android.](https://github.com/JakeWharton/butterknife)
 
+#### Event Bus
 - [Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.](https://github.com/greenrobot/EventBus)
+- [An enhanced Guava-based event bus with emphasis on Android support. ](https://github.com/square/otto)
