@@ -9,6 +9,7 @@
 - [Maybe the most robust Android Audio encapsulation library, with part Rx support.](https://github.com/Piasy/RxAndroidAudio)
 
 #### Network
+- [An HTTP+HTTP/2 client for Android and Java applications.](https://github.com/square/okhttp)
 - [Type-safe HTTP client for Android and Java by Square, Inc.](https://github.com/square/retrofit)
 
 #### Dev Tools
