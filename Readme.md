@@ -18,6 +18,11 @@
 - [https://github.com/ANKP/android_frameworks_volley](https://github.com/ANKP/android_frameworks_volley)
 - [An Asynchronous HTTP Library for Android](https://github.com/loopj/android-async-http)
 
+#### Disk Cache
+- [Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.](https://github.com/JakeWharton/DiskLruCache)
+
+#### Sqlite
+
 #### Dev Tools
 - [Stream iOS & Android Native Apps in the Browser](https://appetize.io)
 - [Make the right product decision every time.](https://repro.io)
