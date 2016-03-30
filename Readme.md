@@ -7,6 +7,7 @@
 #### Image
 - [An Android library for managing images and the memory they use. ](https://github.com/facebook/fresco)
 - [An image loading and caching library for Android focused on smooth scrolling](https://github.com/bumptech/glide)
+-[A powerful image downloading and caching library for Android ](https://github.com/square/picasso)
 
 #### Audio & Videos
 - [Maybe the most robust Android Audio encapsulation library, with part Rx support.](https://github.com/Piasy/RxAndroidAudio)
