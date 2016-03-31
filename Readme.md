@@ -36,5 +36,9 @@
 - [Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.](https://github.com/greenrobot/EventBus)
 - [An enhanced Guava-based event bus with emphasis on Android support. ](https://github.com/square/otto)
 
+#### Unit Test
+- [Mocking framework for unit tests written in Java](https://github.com/mockito/mockito)
+
+
 #### Other
 - [General purpose utilities and hash functions for Android and Java (aka java-common)](https://github.com/greenrobot/essentials)
