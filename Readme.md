@@ -3,6 +3,7 @@
 #### UI
 - [JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)
 - [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton)
+- [Floating Action Button for Android based on Material Design specification](https://github.com/futuresimple/android-floating-action-button)
 
 #### Image
 - [An Android library for managing images and the memory they use. ](https://github.com/facebook/fresco)
