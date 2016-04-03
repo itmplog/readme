@@ -43,5 +43,8 @@
 #### Debug Tools
 - [Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.](https://github.com/facebook/stetho)
 
+#### Leak Detection
+- [A memory leak detection library for Android and Java.](https://github.com/square/leakcanary)
+
 #### Other
 - [General purpose utilities and hash functions for Android and Java (aka java-common)](https://github.com/greenrobot/essentials)
