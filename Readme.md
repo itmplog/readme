@@ -40,6 +40,8 @@
 #### Unit Test
 - [Mocking framework for unit tests written in Java](https://github.com/mockito/mockito)
 
+#### Debug Tools
+- [Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.](https://github.com/facebook/stetho)
 
 #### Other
 - [General purpose utilities and hash functions for Android and Java (aka java-common)](https://github.com/greenrobot/essentials)
