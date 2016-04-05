@@ -5,6 +5,9 @@
 - [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton)
 - [Floating Action Button for Android based on Material Design specification](https://github.com/futuresimple/android-floating-action-button)
 
+#### View Animations
+- [Cute view animation collection.](https://github.com/daimajia/AndroidViewAnimations)
+
 #### Image
 - [An Android library for managing images and the memory they use. ](https://github.com/facebook/fresco)
 - [An image loading and caching library for Android focused on smooth scrolling](https://github.com/bumptech/glide)
