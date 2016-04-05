@@ -38,6 +38,7 @@
 - [Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.](https://github.com/greenrobot/EventBus)
 - [An enhanced Guava-based event bus with emphasis on Android support. ](https://github.com/square/otto)
 - [RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.](https://github.com/ReactiveX/RxJava)
+- [RxJava bindings for Android](https://github.com/ReactiveX/RxAndroid)
 
 #### Unit Test
 - [Mocking framework for unit tests written in Java](https://github.com/mockito/mockito)
