@@ -54,3 +54,4 @@
 
 #### Other
 - [General purpose utilities and hash functions for Android and Java (aka java-common)](https://github.com/greenrobot/essentials)
+- [A gradle plugin for getting java lambda support in java 6, 7 and android](https://github.com/evant/gradle-retrolambda)
