@@ -47,13 +47,14 @@
 - [square/otto](https://github.com/square/otto): An enhanced Guava-based event bus with emphasis on Android support. 
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid): RxJava bindings for Android
+- [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding): RxJava binding APIs for Android's UI widgets.
 
 #### Unit Test
 - [mockito/mockito](https://github.com/mockito/mockito): Mocking framework for unit tests written in Java
 - [google/truth](https://github.com/google/truth): Assertion/Proposition framework for Java unit tests 
 
 #### Debug Tools
-- [acebook/stetho](https://github.com/facebook/stetho: Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.)
+- [facebook/stetho](https://github.com/facebook/stetho: Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.)
 
 #### Leak Detection
 - [square/leakcanary](https://github.com/square/leakcanary): A memory leak detection library for Android and Java.
