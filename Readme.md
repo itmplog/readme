@@ -52,6 +52,9 @@
 #### Leak Detection
 - [A memory leak detection library for Android and Java.](https://github.com/square/leakcanary)
 
+#### Heap Dumps
+- [Java library to automate the analysis of Android heap dumps.](https://github.com/square/haha)
+
 #### Other
 - [General purpose utilities and hash functions for Android and Java (aka java-common)](https://github.com/greenrobot/essentials)
 - [A gradle plugin for getting java lambda support in java 6, 7 and android](https://github.com/evant/gradle-retrolambda)
