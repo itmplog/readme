@@ -50,6 +50,7 @@
 
 #### Unit Test
 - [mockito/mockito](https://github.com/mockito/mockito): Mocking framework for unit tests written in Java
+- [google/truth](https://github.com/google/truth): Assertion/Proposition framework for Java unit tests 
 
 #### Debug Tools
 - [acebook/stetho](https://github.com/facebook/stetho: Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.)
