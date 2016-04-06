@@ -1,7 +1,7 @@
 ### Android Open Source Libs
 
 #### UI
-- [JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)
+- [Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,..](https://github.com/JoanZapata/android-iconify)
 - [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton)
 - [Floating Action Button for Android based on Material Design specification](https://github.com/futuresimple/android-floating-action-button)
 
