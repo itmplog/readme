@@ -32,6 +32,7 @@
 
 #### Json
 - [google/gson](https://github.com/google/gson): A Java serialization/deserialization library that can convert Java Objects into JSON and back.
+- [square/moshi](https://github.com/square/moshi): A modern JSON library for Android and Java. 
 
 #### Dev Tools
 - [appetize.io](https://appetize.io): Stream iOS & Android Native Apps in the Browser
