@@ -5,6 +5,7 @@
 - [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton): Android Floating Action Button based on Material Design specification
 - [futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button): Floating Action Button for Android based on Material Design specification
 - [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu): An Android library that allows you to easily create applications with slide-in menus.
+- [amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView): Highlight the best bits of your app to users quickly, simply, and cool...ly
 
 #### View Animations
 - [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations): Cute view animation collection.
